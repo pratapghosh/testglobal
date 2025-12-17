@@ -21,3 +21,5 @@ let product=a*b;
 console.log("The product of a and b is: "+product);
 console.log("This line was added in the latest update.");
 console.log("Stay tuned for more updates!");
+
+// End of file
