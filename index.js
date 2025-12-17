@@ -15,3 +15,9 @@ console.log("The difference between b and a is: "+difference);
 console.log("This is an additional line added to demonstrate changes.");
 console.log("Thank you for using this program!");   
 console.log("Have a great day!");
+
+//Some new changes made here
+let product=a*b;
+console.log("The product of a and b is: "+product);
+console.log("This line was added in the latest update.");
+console.log("Stay tuned for more updates!");
