@@ -14,3 +14,4 @@ let difference=b-a;
 console.log("The difference between b and a is: "+difference);
 console.log("This is an additional line added to demonstrate changes.");
 console.log("Thank you for using this program!");   
+console.log("Have a great day!");
