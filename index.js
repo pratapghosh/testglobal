@@ -7,3 +7,4 @@ console.log("This is a simple JavaScript program.");
 console.log("The value of a is: "+a);
 console.log("The value of b is: "+b);
 console.log("End of the program.");
+console.log("Goodbye!");
